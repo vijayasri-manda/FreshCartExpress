@@ -29,11 +29,16 @@ FreshCartExpress is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) g
 ---
 
 ## 📂 Project Structure
-
 FreshCartExpress/
 │
-├── client/ # Frontend (React)
-├── server/ # Backend (Node.js, Express)
-├── .env # Environment variables
-├── package.json # Project metadata
-└── README.md # Project readme
+├── client/            # Frontend (React)
+│   ├── public/        # Static files and index.html
+│   └── src/           # React components, pages, services
+│
+├── server/            # Backend (Node.js, Express)
+│   ├── DB/        # Database and JWT configurations       
+│   └── server.js      # Entry point for backend server
+│
+├── .env               # Environment variables (API keys, DB URI)
+├── package.json       # Project metadata (may be separate for client and server)
+└── README.md          # This file
