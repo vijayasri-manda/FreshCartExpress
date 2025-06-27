@@ -41,8 +41,14 @@
 
 ## 🧪 Installation & Setup
 
-### 📦 Backend Setup
+### 📦 Frontend Setup
 ```bash
-cd server
+cd Client
 npm install
 npm start
+
+### 📦 Backend Setup
+```bash
+cd Server
+npm install
+node index.js
