@@ -1,0 +1,548 @@
+[{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7021"
+  },
+  "productname": "Mango",
+  "description": "Mango is a tropical fruit rich in fiber and vitamins. It’s enjoyed fresh, in juices, or as pickles.",
+  "price": 1.19,
+  "image": "https://t4.ftcdn.net/jpg/05/41/05/85/360_F_541058586_BI3eaJvZO132lNExAwbARYSg7FfHknWz.jpg",
+  "category": "Fruits",
+  "countInStock": 45,
+  "rating": 4.5,
+  "dateCreated": {
+    "$date": "2025-06-24T00:38:54.189Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7022"
+  },
+  "productname": "Banana",
+  "description": "Bananas are packed with potassium, B6, vitamin C, and fiber. Eaten raw or in shakes and desserts.",
+  "price": 0.72,
+  "image": "https://img.freepik.com/free-photo/single-banana-isolated-white-background_839833-17794.jpg?semt=ais_hybrid&w=740",
+  "category": "Fruits",
+  "countInStock": "200 bunches",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:08:54.189614"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7023"
+  },
+  "productname": "Apple",
+  "description": "Apples are high in fiber and antioxidants. Linked to better heart and gut health.",
+  "price": 1.81,
+  "image": "https://images.pexels.com/photos/206959/pexels-photo-206959.jpeg?cs=srgb&dl=pexels-pixabay-206959.jpg&fm=jpg",
+  "category": "Fruits",
+  "countInStock": "100 kg",
+  "rating": 4.2,
+  "dateCreated": "2025-06-24T06:08:54.189619"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7024"
+  },
+  "productname": "Orange",
+  "description": "Oranges are an excellent source of vitamin C. Supports immune and heart health.",
+  "price": 0.96,
+  "image": "https://www.shutterstock.com/shutterstock/photos/2053015835/display_1500/stock-photo-orange-with-sliced-and-green-leaves-isolated-on-white-background-2053015835.jpg",
+  "category": "Fruits",
+  "countInStock": "120 kg",
+  "rating": 4.1,
+  "dateCreated": "2025-06-24T06:08:54.189625"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7025"
+  },
+  "productname": "Grapes",
+  "description": "Grapes are high in antioxidants like resveratrol. Eaten fresh or dried as raisins.",
+  "price": 1.81,
+  "image": "https://media.istockphoto.com/id/489520104/photo/green-grape-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=9kg_3pMeBKYnHHjx2JECF61QwzxTikLaQ2w-6A5tOO0=",
+  "category": "Fruits",
+  "countInStock": "80 kg",
+  "rating": 4.3,
+  "dateCreated": "2025-06-24T06:08:54.189631"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7026"
+  },
+  "productname": "Papaya",
+  "description": "Papayas support digestion and immunity. Eaten ripe or in smoothies and salads.",
+  "price": 0.6,
+  "image": "https://media.istockphoto.com/id/864053288/photo/whole-and-half-of-ripe-papaya-fruit-with-seeds-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=hJ5DpNTt0oKjZMIHYV6gUHTntB2zIs_78dPKiuDUXgE=",
+  "category": "Fruits",
+  "countInStock": "60 kg",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:08:54.189635"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7027"
+  },
+  "productname": "Potato",
+  "description": "Starchy tuber rich in potassium, B6, and fiber. Used in a variety of dishes.",
+  "price": 0.36,
+  "image": "https://t3.ftcdn.net/jpg/00/85/79/92/360_F_85799278_0BBGV9OAdQDTLnKwAPBCcg1J7QtiieJY.jpg",
+  "category": "Vegetables",
+  "countInStock": "200 kg",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:08:54.189641"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7028"
+  },
+  "productname": "Onion",
+  "description": "Low-calorie but nutrient-dense. Used in almost all Indian dishes.",
+  "price": 0.24,
+  "image": "https://media.istockphoto.com/id/499146870/photo/red-onions.jpg?s=612x612&w=0&k=20&c=OaZUynAtxIJyPaSgAsAGWwAbpTs_EfKF5zT_UvBDpbY=",
+  "category": "Vegetables",
+  "countInStock": "180 kg",
+  "rating": 4.2,
+  "dateCreated": "2025-06-24T06:08:54.189649"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7029"
+  },
+  "productname": "Tomato",
+  "description": "Rich in vitamin C and lycopene. Used in curries, chutneys, and salads.",
+  "price": 0.3,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6ttweBKLrRMFWfjFHsVfdmU1SFPo6yfm6Q&s",
+  "category": "Vegetables",
+  "countInStock": "150 kg",
+  "rating": 4.1,
+  "dateCreated": "2025-06-24T06:08:54.189667"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba702a"
+  },
+  "productname": "Cauliflower",
+  "description": "High in fiber and vitamin C. Often used in stir-fries and curries.",
+  "price": 0.48,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVhyVYMOyunhidZB9cFohOqdln5v-MfZZCONDOJT9kcGhBdRyN1fTkft8knYTRhbNazhEaiFrcJS0tRmEpBPfQJUtr_HgN",
+  "category": "Vegetables",
+  "countInStock": "100 pcs",
+  "rating": 3.9,
+  "dateCreated": "2025-06-24T06:08:54.189672"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba702b"
+  },
+  "productname": "Lady's Finger",
+  "description": "Rich in fiber and antioxidants. Commonly used in bhindi masala or fried.",
+  "price": 0.6,
+  "image": "https://m.media-amazon.com/images/I/61M7ZbTTlVL.jpg",
+  "category": "Vegetables",
+  "countInStock": "100 kg",
+  "rating": 4.3,
+  "dateCreated": "2025-06-24T06:08:54.189678"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba702c"
+  },
+  "productname": "Carrot",
+  "description": "Excellent source of beta-carotene. Used in salads, curries, and sweets.",
+  "price": 0.36,
+  "image": "https://www.lovefoodhatewaste.com/sites/default/files/styles/open_graph_image/public/2022-06/Carrots.jpg.webp?itok=aBgglla9",
+  "category": "Vegetables",
+  "countInStock": "150 kg",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:08:54.189683"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba702d"
+  },
+  "productname": "Milk (Fresh)",
+  "description": "Fresh cow’s milk rich in calcium and protein. Used in tea, cereals, curds, and sweets.",
+  "price": 0.72,
+  "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/xzwcrynvoj5iqz0bjj7m",
+  "category": "Dairy",
+  "countInStock": "300 L",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:08:54.189688"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba702e"
+  },
+  "productname": "Paneer (Cottage Cheese)",
+  "description": "Paneer is high in protein and calcium, used in dishes like palak paneer and butter masala.",
+  "price": 1.45,
+  "image": "https://www.seriouseats.com/thmb/jdFyRQOfbKA1COGPrkN5927FiBs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220628-FreshPaneer-AmandaSuarez-11c5e6f76d064cf88153a93d28384bc8.jpg",
+  "category": "Dairy",
+  "countInStock": "50 pcs",
+  "rating": 4.5,
+  "dateCreated": "2025-06-24T06:08:54.189693"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba702f"
+  },
+  "productname": "Curd (Dahi)",
+  "description": "Indian curd rich in calcium and probiotics. Eaten plain, with meals, or used in lassi.",
+  "price": 0.48,
+  "image": "https://www.chezshuchi.com/images/homemade-dahi51.JPG",
+  "category": "Dairy",
+  "countInStock": "100 pots",
+  "rating": 4.3,
+  "dateCreated": "2025-06-24T06:08:54.189697"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7030"
+  },
+  "productname": "Butter (Amul)",
+  "description": "Butter with fat-soluble vitamins adds flavor. Used as spread and in Indian cooking.",
+  "price": 1.08,
+  "image": "https://m.media-amazon.com/images/I/51KrxEKN58L.jpg",
+  "category": "Dairy",
+  "countInStock": "70 packs",
+  "rating": 4.2,
+  "dateCreated": "2025-06-24T06:08:54.189702"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7031"
+  },
+  "productname": "Ghee (Clarified Butter)",
+  "description": "Lactose-free clarified butter valued in Indian cuisine and Ayurveda. High in nutrients.",
+  "price": 4.22,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRIRJb2mcXiUVCmrM81_leJ0WkZ1dKsGsv9BnbTyU3-KfCdjpTxkklwlSJ0MytPxq6m-KifTYU8ty_TYdoIv3Vi4B8z0c2siSOawHQrvt8",
+  "category": "Dairy",
+  "countInStock": "40 jars",
+  "rating": 4.5,
+  "dateCreated": "2025-06-24T06:08:54.189707"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7032"
+  },
+  "productname": "Cheese (Processed/Cheddar)",
+  "description": "Cheese rich in protein and calcium. Used in sandwiches, gravies, and snacks.",
+  "price": 0.96,
+  "image": "https://www.cheese.com/media/img/cheese/Cheddar.webp",
+  "category": "Dairy",
+  "countInStock": "60 packets",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:08:54.189712"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7033"
+  },
+  "productname": "Lay’s Classic Potato Chips",
+  "description": "Crispy salted potato chips. Popular as tea-time or party snack.",
+  "price": 0.12,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQsjaiC-C2x99EQh4WGycr_8HuByLyLrwoOZPMYOoNf7lwytD1Y2mgIccIKCWACVZ6IG1vlqO8ZCAzi_oLkJJZdlh18vMv2L5QDtCXYucSNnOYBw0nCbTKwqY7vLI4TZCn0VuucYw&usqp=CAc",
+  "category": "Snacks",
+  "countInStock": "200 packs",
+  "rating": 4.1,
+  "dateCreated": "2025-06-24T06:08:54.189721"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7034"
+  },
+  "productname": "Parle-G Biscuits",
+  "description": "Classic glucose biscuits. Often consumed with tea for quick energy.",
+  "price": 0.06,
+  "image": "data:image/webp;base64,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",
+  "category": "Snacks",
+  "countInStock": "300 packets",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:08:54.189726"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7035"
+  },
+  "productname": "Kurkure Masala Munch",
+  "description": "Crunchy savory corn snack with spicy masala flavor.",
+  "price": 0.12,
+  "image": "data:image/jpeg;base64,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",
+  "category": "Snacks",
+  "countInStock": "150 packs",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:08:54.189730"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7036"
+  },
+  "productname": "Britannia Good Day Cookies",
+  "description": "Sweet cookies made with milk and wheat. Common tea-time snack.",
+  "price": 0.12,
+  "image": "data:image/webp;base64,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",
+  "category": "Snacks",
+  "countInStock": "100 packs",
+  "rating": 4.2,
+  "dateCreated": "2025-06-24T06:08:54.189735"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7037"
+  },
+  "productname": "Haldiram’s Bhujia",
+  "description": "Spiced gram flour sev mix. Eaten alone or in chaats.",
+  "price": 1.45,
+  "image": "https://m.media-amazon.com/images/I/71hPJnCDUNL.jpg",
+  "category": "Snacks",
+  "countInStock": "50 packs",
+  "rating": 4.3,
+  "dateCreated": "2025-06-24T06:08:54.189741"
+},
+{
+  "_id": {
+    "$oid": "685a441b95eedb4e0cba7038"
+  },
+  "productname": "Bingo Mad Angles",
+  "description": "Tangy corn and lentil crisps. Comes in flavors like tomato and peri-peri.",
+  "price": 0.12,
+  "image": "data:image/jpeg;base64,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",
+  "category": "Snacks",
+  "countInStock": "150 packs",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:08:54.189745"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7039"
+  },
+  "productname": "Almonds (Badam)",
+  "description": "Nutrient-dense nuts rich in healthy fats, vitamin E, and protein. Eaten raw, roasted, or soaked.",
+  "price": 0.96,
+  "image": "https://post.healthline.com/wp-content/uploads/2023/02/Almonds-Table-Bowl-1296x728-Header.jpg",
+  "category": "Dry Fruits",
+  "countInStock": "100 packs",
+  "rating": 4.5,
+  "dateCreated": "2025-06-24T06:23:27.657967"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba703a"
+  },
+  "productname": "Cashews (Kaju)",
+  "description": "Creamy nuts rich in heart-healthy fats, copper, and magnesium. Eaten as snacks or in dishes.",
+  "price": 1.45,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-SbRwIXxNlxKUYoGhAXK2h5xtEZJiQVM5qIIDcuX3Z68Lj7hC3MlPSR4Al1iywN4rYxasU6KHXLHAdPHrV_pP64MCmn8yTil5MA3CIhRZ8gEQqogVZ7mI41Hngt1YrLKfeo1fDg&usqp=CAc",
+  "category": "Dry Fruits",
+  "countInStock": "80 packs",
+  "rating": 4.4,
+  "dateCreated": "2025-06-24T06:23:27.657980"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba703b"
+  },
+  "productname": "Raisins (Kishmish)",
+  "description": "Dried grapes high in sugars and fiber. Provide energy; used in desserts and cereals.",
+  "price": 0.36,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwI94GQ8BKbFFGhJSGH4nZQ9yt9WrPEWQTLg&s",
+  "category": "Dry Fruits",
+  "countInStock": "150 packs",
+  "rating": 4.2,
+  "dateCreated": "2025-06-24T06:23:27.657986"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba703c"
+  },
+  "productname": "Pistachios (Pista)",
+  "description": "Protein- and fiber-rich nuts. Help manage cholesterol. Often eaten roasted or in sweets.",
+  "price": 1.81,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBUv-JON8EPhmhTTfqGQU4kp_IZl67icQS2n_TbTmb_fbsikNSAhkmDUdb2O-uEY08LK_GgzdLkpY3JxGsBWfeTw",
+  "category": "Dry Fruits",
+  "countInStock": "50 packs",
+  "rating": 4.6,
+  "dateCreated": "2025-06-24T06:23:27.657991"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba703d"
+  },
+  "productname": "Walnuts (Akhrot)",
+  "description": "Rich in omega-3 fats and antioxidants. Support brain health. Used raw or in cereals and sweets.",
+  "price": 2.41,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAdKMMWejY3wBH10N6U_fzPQmZnv7YXuxAOhj8mda6DlfbHeBuLex2Vk3wyfgbgtWz-9-KlUYSSv878HtPPESX07l-RnqGAWvJCuFpc1WzdFRm2Bu_HHiADUEgHmYVgDfLNL5ifFg&usqp=CAc",
+  "category": "Dry Fruits",
+  "countInStock": "40 packs",
+  "rating": 4.3,
+  "dateCreated": "2025-06-24T06:23:27.657997"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba703e"
+  },
+  "productname": "Dates (Khajoor)",
+  "description": "High in natural sugars, fiber, and potassium. Provide energy; often eaten to break fasts.",
+  "price": 0.6,
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgv3RYyHPWJWbks2KRTOQf9smRCumATPWyEoQPmE_yLpr6EF1OHm4Nxr8VeQkFDVqPh-LHF3J41YhLbyUCoNc_SHT_I_EsU3Tq_lI5lvsq",
+  "category": "Dry Fruits",
+  "countInStock": "100 packs",
+  "rating": 4.5,
+  "dateCreated": "2025-06-24T06:23:27.658002"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba703f"
+  },
+  "productname": "Thums Up (Cola)",
+  "description": "Strong Indian cola drink. Contains caffeine and sugar. Popular chilled beverage.",
+  "price": 0.6,
+  "image": "https://gambhoimart.com/wp-content/uploads/2023/08/PhotoRoom-20230801_145741.png.webp",
+  "category": "Beverages",
+  "countInStock": "150 cans",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:23:27.658007"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7040"
+  },
+  "productname": "Tata Tea (Premium)",
+  "description": "Black tea rich in antioxidants. Brewed daily in Indian homes for heart and gut health.",
+  "price": 2.17,
+  "image": "https://m.media-amazon.com/images/I/61aIPoCh6AL.jpg",
+  "category": "Beverages",
+  "countInStock": "100 boxes",
+  "rating": 4.2,
+  "dateCreated": "2025-06-24T06:23:27.658016"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7041"
+  },
+  "productname": "Nescafé Classic Coffee",
+  "description": "Instant coffee with caffeine and antioxidants. Supports energy and liver health.",
+  "price": 2.17,
+  "image": "data:image/webp;base64,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",
+  "category": "Beverages",
+  "countInStock": "100 jars",
+  "rating": 4.1,
+  "dateCreated": "2025-06-24T06:23:27.658024"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7042"
+  },
+  "productname": "Real Mango Juice",
+  "description": "Fruit juice rich in vitamin C. Refreshing drink made from mango pulp.",
+  "price": 0.72,
+  "image": "https://img.clevup.in/333751/download-2024-05-04T095354284-1714796771901.jpeg?width=600&format=webp",
+  "category": "Beverages",
+  "countInStock": "80 cartons",
+  "rating": 4.3,
+  "dateCreated": "2025-06-24T06:23:27.658030"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7043"
+  },
+  "productname": "Bisleri Mineral Water",
+  "description": "Packaged drinking water. Provides pure hydration essential for health.",
+  "price": 0.24,
+  "image": "https://5.imimg.com/data5/SELLER/Default/2023/5/304907193/SL/UN/HW/93175605/bisleri-250-ml-mineral-water-bottle.jpg",
+  "category": "Beverages",
+  "countInStock": "200 bottles",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:23:27.658035"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7044"
+  },
+  "productname": "Horlicks Classic Malt",
+  "description": "Malted milk drink enriched with vitamins, minerals, and proteins. Often mixed with milk.",
+  "price": 3.01,
+  "image": "https://m.media-amazon.com/images/I/616WPiPcEeL.jpg",
+  "category": "Beverages",
+  "countInStock": "60 jars",
+  "rating": 4.1,
+  "dateCreated": "2025-06-24T06:23:27.658039"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7045"
+  },
+  "productname": "Chicken (Curry Cut)",
+  "description": "Lean, high-protein meat. Used in curries and grills. Provides all essential amino acids.",
+  "price": 2.41,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3RP6Qz57XTM4of0vLHSKLyJNDhKAGF2138bvXJEq_NhwHHTmo4olZKWCALRZmGW0DoAh-9Bhh4D8F0Sz_YoZHENX970xXA29jK-4jgOM5",
+  "category": "Meat and Seafood",
+  "countInStock": "50 kg",
+  "rating": 4.3,
+  "dateCreated": "2025-06-24T06:23:27.658044"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7046"
+  },
+  "productname": "Mutton (Goat Meat)",
+  "description": "Lean red meat rich in protein and iron. Used in Indian biryani and mutton curry.",
+  "price": 6.02,
+  "image": "https://www.licious.in/blog/wp-content/uploads/2022/04/Rich-Goat-Curry-Cut-Small-16-20-Pieces-pr_nbzk1sx8n3k-min-compressed-scaled.jpg",
+  "category": "Meat and Seafood",
+  "countInStock": "20 kg",
+  "rating": 4.5,
+  "dateCreated": "2025-06-24T06:23:27.658049"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7047"
+  },
+  "productname": "Rohu Fish",
+  "description": "Freshwater fish high in protein and omega-3. Cooked as curry or fried.",
+  "price": 3.01,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShYiNprkUaw0SUlI0xrRw636ePX1V4C_xlhubsATjVU0kWT-9YcRY9v4k8KqENdyaNLjh-P-43ZvlYDg6mRn2TNooObxH82MACEfxC24uC",
+  "category": "Meat and Seafood",
+  "countInStock": "30 kg",
+  "rating": 4.2,
+  "dateCreated": "2025-06-24T06:23:27.658054"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7048"
+  },
+  "productname": "Pomfret Fish (White Pomfret)",
+  "description": "Marine fish rich in lean protein and omega-3. Delicate taste, fried or grilled.",
+  "price": 7.23,
+  "image": "https://www.bayhawk.in/wp-content/uploads/2022/06/White-Pomfret.jpg",
+  "category": "Meat and Seafood",
+  "countInStock": "10 kg",
+  "rating": 4,
+  "dateCreated": "2025-06-24T06:23:27.658059"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba7049"
+  },
+  "productname": "Shrimp (Prawns)",
+  "description": "High-protein, low-fat seafood with omega-3. Used in prawn curry and biryani.",
+  "price": 4.82,
+  "image": "https://www.foodandwine.com/thmb/yfYSUIlcfbXD-0g_-m8g_utIgww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Garlic-shrimp-in-tomato-sauce-FT-RECIPE0424-efd976fab22444e69c7f5b469d5aadd3.jpg",
+  "category": "Meat and Seafood",
+  "countInStock": "15 kg",
+  "rating": 4.3,
+  "dateCreated": "2025-06-24T06:23:27.658064"
+},
+{
+  "_id": {
+    "$oid": "685a4ae495eedb4e0cba704a"
+  },
+  "productname": "Kingfish (Surmai/Seer Fish)",
+  "description": "Fatty marine fish with firm texture. Common in coastal curries and kababs.",
+  "price": 7.23,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5PHYW0YlU9dmqdQS0aE8P-hhQ4jtupO4y2iRxODPYHo91CJUF0CvKxJJBAcwAA6j1dNwuQrCCNqNxuocqvIghbFrPl6VvMypXb5Wse5k",
+  "category": "Meat and Seafood",
+  "countInStock": "8 kg",
+  "rating": 4.2,
+  "dateCreated": "2025-06-24T06:23:27.658070"
+}]
